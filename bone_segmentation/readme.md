@@ -6,3 +6,6 @@
 
 합성 결과
 ![image](https://user-images.githubusercontent.com/79948405/141664793-479da030-8064-41c2-bb0c-832d07fe22bd.png)
+
+누끼 결과
+![image](https://user-images.githubusercontent.com/79948405/141665086-c0429377-37d3-4f64-806b-1486ae97bc50.png)
