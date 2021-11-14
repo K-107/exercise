@@ -2,7 +2,7 @@
 ![input_0000](https://user-images.githubusercontent.com/79948405/141652597-9c59cf68-c7bb-49f6-b8cb-9df83d0c6e1b.png)
 
 모델 출력 결과
-![output_0000](https://user-images.githubusercontent.com/79948405/141652653-5e746a6e-3fdc-4dfc-94db-f98b81005f2d.png)
+![image](https://user-images.githubusercontent.com/79948405/141665544-eded8704-457e-4925-80ae-84d062ebdb14.png)
 
 합성 결과
 ![image](https://user-images.githubusercontent.com/79948405/141664793-479da030-8064-41c2-bb0c-832d07fe22bd.png)
